@@ -1,2 +1,2 @@
-# uddhavkrishnan.github.io
+# uddhav.github.io
 My first website
